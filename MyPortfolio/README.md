@@ -18,3 +18,7 @@ Bu proje, ASP.NET Core, SQL, Migration işlemleri, ve Frontend teknolojileri (HT
 - Dinamik Sayfalar ve Veritabanı Etkileşimi
 - View Component kullanımı
 - Model-View-Controller (MVC) yapısı
+
+![WebSite](https://github.com/erkankaradag/MYYazilimFullStack/blob/master/MyPortfolio/WebSite.jpg?raw=true)
+
+![Admin Panel](https://github.com/erkankaradag/MYYazilimFullStack/blob/master/MyPortfolio/Admin%20Panel.jpg?raw=true)
