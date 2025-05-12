@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\iPortfolio-1.0.0\.DS_Store" />
+    <None Include="wwwroot\iPortfolio-1.0.0\assets\.DS_Store" />
     <None Include="wwwroot\sidebar-09\.DS_Store" />
     <None Include="wwwroot\sidebar-09\css\.DS_Store" />
     <None Include="wwwroot\sidebar-09\css\bootstrap\.DS_Store" />
