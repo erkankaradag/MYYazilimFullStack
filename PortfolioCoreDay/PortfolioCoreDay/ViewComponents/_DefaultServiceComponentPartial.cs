@@ -3,12 +3,12 @@ using PortfolioCoreDay.Context;
 
 namespace PortfolioCoreDay.ViewComponents
 {
-    public class _DefaultSliderComponentPartial : ViewComponent
+    public class _DefaultServiceComponentPartial : ViewComponent
     {
-        PortfolioContext context = new PortfolioContext();
+        PortfolioContext contex = new PortfolioContext();
         public IViewComponentResult Invoke()
         {
-            var values = context.Works.ToList();
+            var values = contex.Services.Take(6).ToList();
             return View(values);
         }
     }
